@@ -1,5 +1,5 @@
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20974068.svg)](https://doi.org/10.5281/zenodo.20974068)
-](https://doi.org/10.5281/zenodo.20986914)
+https://doi.org/10.5281/zenodo.20987896
+
 # ESP32-S3 Distributed Heterogeneous Computing Cluster
 
 **A Self-Evolving Embedded Architecture with Hierarchical AI and Autonomous OTA Infrastructure**
