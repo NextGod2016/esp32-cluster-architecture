@@ -1,5 +1,12 @@
-# ESP32-S3 Distributed Heterogeneous Embedded Computing Cluster v2.0
-> Four-Layer Self-Evolving Edge Architecture · Software-Defined GPU Rendering Subsystem · Localized OTA Infrastructure · Multimedia Heterogeneous Acceleration
+# Nexus-4D
+
+**ESP32-S3 based 4-Dimensional Distributed Heterogeneous Compute Cluster** · Vector-Dictionary Transmission · Soft-GPU Pipeline · Self-Evolving OTA
+
+> **Four-Layer Edge Architecture:** Cloud (x86 Strategy) → Command (Wi-Fi Scheduler) → Hub (DMA Bypass) → Execution (Rendering/Audio)  
+> **Core Status:** ✅ Validated | **Render Subsystem:** 🚧 In Dev
+
+---
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-v2.0-blue.svg)](./ESP32_cluster_paper.md)
